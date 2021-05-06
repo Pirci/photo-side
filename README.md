@@ -1,4 +1,4 @@
-# Photo Side Responsive
+# Photo Side
 
 Create website from scratch.
 
