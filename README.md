@@ -12,7 +12,7 @@ From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-deve
 Preview:  https://pirci.github.io/photo-side/
 
 
- ![photo-side](https://media.giphy.com/media/Di8TMioxkaVfyva4QY/giphy.gif)
+ ![photo-side](https://media.giphy.com/media/HxLriVypT3xtcSFVL0/giphy.gif)
 
 
 ## What I Learned:
