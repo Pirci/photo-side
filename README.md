@@ -28,7 +28,7 @@ Preview:  https://pirci.github.io/photo-side/
 - Formatting could be improved when viewing on certain devices/browsers
 - Different design representations can be provided for different resolutions
 
-
+> Any type of suggestions/improvements to this repo are always welcome.
 
 
 
