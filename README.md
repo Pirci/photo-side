@@ -1,11 +1,6 @@
 # Photo Side
 
-### Udemy the Web Developer Bootcamp project.
-
 > A simple project built with only html and css. Black and white photographs were placed on the page layout.
-
-From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
-
 
 ## Live Demo
 
@@ -32,4 +27,4 @@ Preview:  https://pirci.github.io/photo-side/
 
 
 
- 
+
